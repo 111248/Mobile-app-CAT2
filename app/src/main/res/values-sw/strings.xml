@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_fname">Ingiza Jina la kwanza</string>
+    <string name="hint_lname">Ingiza Jina la Mwisho</string>
+    <string name="hint_email">Ingiza anwani ya barua pepe</string>
+    <string name="hint_password">Ingiza nenosiri</string>
+    <string name="hint_confirm_password">Thibitisha nenosiri</string>
+    <string name="btn_reg">Jiandikishe</string>
+    <string name="link_login">Tayari una akaunti?</string>
+    <string name="empty_details">Maelezo tupu</string>
+    <string name="short_password">Neno la siri ni mfupi sana</string>
+    <string name="creating_account">Kuongeza Mtumiaji</string>
+    <string name="signup_error">Hitilafu ilitokea wakati wa usajili</string>
+    <string name="success_signup">Mafanikio ya Usajili</string>
+    <string name="btn_login">Ingia</string>
+    <string name="btn_link_reg">Huna akaunti?</string>
+    <string name="empty_fields">Mashamba yako ya pembejeo ni tupu</string>
+    <string name="success_login">Ingia mafanikio</string>
+    <string name="wrong_credentials">Tafadhali angalia sifa zako za kuingia</string>
+    <string name="logging_in">Kuangalia sifa</string>
+    <string name="welcome">Patikana</string>
+    <string name="btn_logout">"Toka nje "</string>
+    <string name="app_name">klabu ya gofu</string>
+</resources>
